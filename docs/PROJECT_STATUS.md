@@ -8,7 +8,7 @@
 - 项目：ChopTree / 砍树游戏，计划作为纯 HTML5 小游戏开发。
 - GitHub：`119shenhao/choptree`；默认分支 `main`；**仓库保持公开（Public）**。2026-11-21 用户明确确认本项目就是公开项目，撤回此前改为 Private 的要求；GitHub 实时元数据核验为 `visibility=public`。以最新决策 [DEC-0006](./DECISIONS.md) 为准。
 - Cloudflare Pages：用户表示已绑定 GitHub；其提供的特定部署 URL 为 `https://3a24e45e.choptree.pages.dev/`；实际部署源及固定域名尚未完成独立核验。
-- GitHub 文件树（2026-11-21 实时核验）：根目录 `hello world.txt` 以及 `docs/` 下 8 份文档；**没有正式游戏源码**。以后每次执行前仍需重新核验。
+- GitHub 文件树（2026-11-21 核验及更新）：根目录有 `hello world.txt` 和新增的对外展示 `README.md`；`docs/` 保存项目文档（包括已标明 Public 的 `docs/README.md`）；**仍没有正式游戏源码**。以后每次执行前仍需重新核验。
 - **玩法：** 尚未确定；过去提过的点击、自动砍树等只是例子，不能当已批准功能。
 
 ## 当前阶段
