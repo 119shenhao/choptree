@@ -37,6 +37,7 @@
 | [PROJECT_STATUS.md](./PROJECT_STATUS.md) | 当前阶段、已完成事项、阻塞和下一步 |
 | [WORKFLOW.md](./WORKFLOW.md) | 任务分流、自动判断记录内容、保存与提交核验 |
 | [IDEAS_INBOX.md](./IDEAS_INBOX.md) | 可能重要但未确认的想法；不自动作为开发需求 |
+| [GAME_DESIGN_DRAFT.md](./GAME_DESIGN_DRAFT.md) | 手动点击方向的 V0.1 玩法及界面设计讨论稿（未批准开发） |
 | [REQUIREMENTS.md](./REQUIREMENTS.md) | 用户已确认的需求及其状态、验收条件 |
 | [DECISIONS.md](./DECISIONS.md) | 已确定的架构、流程和技术决策 |
 | [WORK_LOG.md](./WORK_LOG.md) | 实际执行、测试证据、中断恢复与交接记录 |
