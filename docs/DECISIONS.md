@@ -29,6 +29,13 @@
 - **状态：** 已确定
 - **决定：** 先建立轻量文档工作流，游戏具体玩法、源代码目录及部署细节待下一阶段确定。原生 JS / ES Modules 仅为此前建议，不视为已批准架构。
 
+### DEC-0005 — 砍树游戏 GitHub 仓库应保持私有
+- **日期：** 2026-11-21
+- **状态：** 已确定目标；实际变更待完成
+- **决定：** 用户明确要求将 `119shenhao/choptree` 从公开（Public）调整为私有（Private）；不应把当前公开状态误视为用户认可的长期设置。
+- **当前核验：** GitHub 实时仓库元数据仍显示 `visibility=public`，尚未变更；已连接的 GitHub 工具不提供修改仓库可见性的管理操作，需由用户在 GitHub 仓库 Settings → General → Danger Zone → Change repository visibility 手动设置为 Private，再重新核验。
+- **边界：** 不得声称已经设为私有；不要未经授权修改其他仓库。GitHub 私有化不代表已经公开部署的 Cloudflare Pages 网站自动变为私有。
+
 ## 新决策模板
 
 `DEC-ID — 标题 / 日期 / 状态 / 决定 / 原因 / 影响 / 替代方案 / 关联需求`。
