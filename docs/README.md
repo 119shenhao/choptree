@@ -18,9 +18,12 @@
 - 项目：ChopTree（纯 HTML5 砍树小游戏）
 - GitHub 仓库：`119shenhao/choptree`
 - 默认分支：`main`
+- 仓库可见性：**公开（Public）**，已于 2026-11-21 经用户确认保持公开；见 [DEC-0006](./DECISIONS.md)。
 - 部署平台：Cloudflare Pages（与 GitHub 关联）
 - 用户提供的访问地址：https://3a24e45e.choptree.pages.dev/
 
+
+仓库根目录设有对外展示的 [README](../README.md)，注明公开项目状态。公开仓库不得提交密码、API 密钥、访问令牌等敏感凭据。
 
 ## AI 项目管理 · 从固定入口开始
 
